@@ -3,18 +3,11 @@
     src: url(ClaireHandLight.otf);
 }
 
-#top-banner {
-	background: #112F41;
-	background-size: cover;
-	width: 100%;
-	margin-bottom: 5%;
-}
 #header-box {
 	background: #112F41;
 	width: 100%;
 	padding-bottom: 80px;
 	padding-top: 40px;
-	margin: 0 auto;
 	text-align: center;
 }
 #header-box h1 {
@@ -54,7 +47,7 @@
 h1{
 	color: #ffffff;
 	font-family: "Source Sans Pro";
-	font-size: 100px;
+	font-size: 80px;
 	padding-top: 80px;
 	padding-bottom: 60px
 }
@@ -125,6 +118,9 @@ a:visited {
 a:hover {
     color: #000000;
     text-decoration: underline;
+}
+#lightlink {
+	color: #ffffff;
 }
 .icon {
 	max-height: 200px;
